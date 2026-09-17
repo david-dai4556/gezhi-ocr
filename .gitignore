@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.log
+*.pid
+*.lnk
+.env
+.env.*
+build/
+dist/
+release/
+test-output/
+.publish-tools/
+Thumbs.db
+Desktop.ini
